@@ -11,5 +11,3 @@ gem "pry", :group => "development"
 group :test do
   gem "rspec"
 end
-
-#gem "pry", :group => "development"
